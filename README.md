@@ -45,7 +45,7 @@ Clone the repository and install:
 ```
 git clone https://github.com/ThDag/NotesOnly.git
 cd NotesOnly
-pip install -r requirements.txt
+pip install -r requirement.txt
 sudo python setup.py
 ```
 
